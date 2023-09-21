@@ -1,0 +1,17 @@
+p {
+    color: rgba(23, 6, 173, 0.822);
+}
+
+
+h1 {
+    color: #00ff9d;
+}
+
+
+a {
+    color: rgb(255, 0, 0);
+}
+
+span {
+    color: hsl(120, 100%, 50%);
+}
