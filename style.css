@@ -21,10 +21,11 @@ body {
 }
 
 footer {
-    background-color: #ffffff;
+    background-color: #09d61a;
     color: #ffffff; 
-    font-size: 20px;
+    font-size: 15px;
     text-align: center;
-    border-top: 1px solid #fff;
+    border-top: 3px solid #ff0000;
+    border-bottom: 3px solid #ff0000;
 }
 
