@@ -5,6 +5,9 @@ p {
 
 h1 {
     color: #00ff9d;
+    text-align: center;
+    border-top: 3px solid #ff0000;
+    border-bottom: 3px solid #ff0000;
 }
 
 
