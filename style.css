@@ -32,3 +32,14 @@ footer {
     border-bottom: 3px solid #9e8888;
 }
 
+.light {
+    display: flex;
+    flex-direction: row-reverse; 
+    align-items: center; 
+    padding: 20px; /
+}
+
+
+button {
+    margin: 5px; 
+}
