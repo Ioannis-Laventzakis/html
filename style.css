@@ -6,8 +6,8 @@ p {
 h1 {
     color: #000000;
     text-align: center;
-    border-top: 3px solid #ff0000;
-    border-bottom: 3px solid #ff0000;
+    border-top: 3px solid #9e8888;
+    border-bottom: 3px solid #9e8888;
 }
 
 
@@ -20,7 +20,7 @@ span {
 }
 
 body {
-    background-color: #ca9b00; 
+    background-color: #939e89; 
 }
 
 footer {
@@ -28,7 +28,7 @@ footer {
     color: #ffffff; 
     font-size: 15px;
     text-align: center;
-    border-top: 3px solid #ff0000;
-    border-bottom: 3px solid #ff0000;
+    border-top: 3px solid #9e8888;
+    border-bottom: 3px solid #9e8888;
 }
 
