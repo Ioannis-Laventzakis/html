@@ -6,5 +6,6 @@
 where i find help-
 https://blog.hubspot.com/
 https://www.w3schools.com/
-i tried my best im out of ideas :-}
+https://chat.openai.com/
+
 ![Screenshot of my final project](./image/hi.png)
