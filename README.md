@@ -6,3 +6,4 @@
 https://blog.hubspot.com/
 https://www.w3schools.com/
 i tried my best im out of ideas :-}
+![Screenshot of my final project](./image/myss.png)
